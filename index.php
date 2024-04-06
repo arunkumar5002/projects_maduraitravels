@@ -107,7 +107,7 @@
 					</div>
 				</div>
 				<div class="col-md-2">
-					<a href="touriest.html"><button class="btn-primary view">View all destination</button></a>
+					<a href="touriest.php"><button class="btn-primary view">View all destination</button></a>
 				</div>
 			</div>
 		</div>
@@ -230,7 +230,7 @@
 							commodi optio dicta aut neque asperiores,.
 						</p>
 						<div class=" d-flex justify-content-center mb-5">
-							<a href="blog.html"><button class="btn-primary view">Read More News</button></a>
+							<a href="blog.php"><button class="btn-primary view">Read More News</button></a>
 						</div>
 					</div>
 

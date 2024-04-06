@@ -6,7 +6,7 @@
     </div>
     <!-- maincontent -->
     <div class="blog-item">
-      <a href="blog_list.html">
+      <a href="blog_list.php">
           <div class="icon">
               <img src="img/8.jpg" alt="">
           </div>
@@ -27,7 +27,7 @@
     
     </div>
     <div class="blog-item">
-      <a href="blog_list.html">
+      <a href="blog_list.php">
           <div class="icon">
               <img src="img/30.jpg" alt="">
           </div>
@@ -48,7 +48,7 @@
     
     </div>
     <div class="blog-item">
-      <a href="blog_list.html">
+      <a href="blog_list.php">
           <div class="icon">
               <img src="img/33.jpg" alt="">
           </div>
