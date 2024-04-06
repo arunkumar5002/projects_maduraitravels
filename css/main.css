@@ -2596,12 +2596,6 @@ h6 {
   height: 180px;
   margin-top: 0px;
 }
-
-.footer-area {
-  padding-top: 100px;
-  background-color: #222222;
-}
-
 h6 {
   color: #fff;
   margin-bottom: 25px;
@@ -2610,20 +2604,7 @@ h6 {
 }
 
 @media (max-width: 991px) {
-  .single-footer-widget {
-    margin-bottom: 30px;
-  }
 }
-
-.footer-text {
-  padding-top: 20px;
-}
-
-.footer-text a,
-.footer-text i {
-  color: #b01afe;
-}
-
 .whole-wrap {
   background-color: #fff;
 }
@@ -2846,17 +2827,8 @@ body p {
 .size {
   overflow: hidden;
 }
-.footer {
-  background: linear-gradient(160deg, rgb(0, 11, 167), rgb(56, 72, 139));
-  height: auto;
-  width: 100%;
-  margin-top: 30px;
 
-  /* padding-top: 30px; */
-}
-.footer p {
-  color: white !important;
-}
+
 .info {
   font-family: "Times New Roman", Times, serif;
   font-size: 20px;
@@ -3277,7 +3249,7 @@ nav a {
 }
 .bond img {
   height: auto;
-  width: 400px;
+  width: 100%;
 }
 @media screen and (max-width: 580px) {
   .rounds {
@@ -3310,7 +3282,7 @@ nav a {
   z-index: 999;
   width: 100%;
 
-  background: rgb(34, 35, 40);
+  background: rgb(14 70 88);
   color: #919194;
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
@@ -3677,7 +3649,7 @@ nav a {
 }
 /* services_end */
 
-
+/* footer_new */
 * {
   margin: 0;
   padding: 0;
